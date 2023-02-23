@@ -1,0 +1,81 @@
+.content {
+    margin: auto;
+    width: 60%;
+}
+
+body {
+    color: #181818;
+    font-size: 16px;
+    line-height: 1.8;
+    font-family: sans-serif;
+}
+
+h2 {
+    line-height: 1.2;
+}
+
+.video-container { 
+    position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; 
+}
+
+.video-container iframe, .video-container object, .video-container embed { 
+    position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
+}
+
+.fancy-link {
+    color: #1e40af;
+    transition: color 0.1s, background-color 0.1s;
+    background-color: #2563eb33;
+    text-decoration: none;
+    border-radius: 4px;
+    padding: 0.16em 0.3em;
+    margin: -0.2em 0;
+}
+  
+  .fancy-link:hover {
+    color: #2563eb;
+    background-color: #3b82f633;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: white;
+        background-color: #282828;
+    }
+
+    .fancy-link {
+        color: #60a5fa;
+        background-color: #3b82f633;
+    }
+    
+    .fancy-link:hover {
+        color: #93c5fd;
+        background-color: #91c3fd33;
+    }
+}
+
+.gallery {
+    text-align:center;
+    padding: 0 6px;
+    width: 30%;
+    height: auto;
+    margin: auto;
+  }
+  
+  @media only screen and (max-width: 700px) {
+    .gallery {
+      width: 40%;
+    }
+    .content {
+        width: 75%;
+    }
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .gallery {
+      width: 100%;
+    }
+    .content {
+        width: 90%;
+    }
+  }
