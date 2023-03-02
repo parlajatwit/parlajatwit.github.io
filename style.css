@@ -12,6 +12,20 @@ body {
 
 img {
 	width: 100%;
+	height: auto;
+}
+.small_w {
+	margin: auto;
+	width: 70%;
+}
+.small {
+	margin: auto;
+	width: 40%;
+	height: 30%;
+}
+.small_h {
+	margin: auto;
+	height: 20%;
 }
 
 h2 {
