@@ -1,13 +1,24 @@
 .content {
-    margin: auto;
-    width: 70%;
+	max-width: 800px;
+	margin: auto;
 }
 
 body {
-    color: #181818;
-    font-size: 16px;
-    line-height: 1.8;
-    font-family: sans-serif;
+	color: #2A2E34;
+	padding: 1%;
+	padding-top: 0px;
+	font-size: 16px;
+	line-height: 1.8;
+	font-family: sans-serif;
+	background-color: #ECEFE3;
+}
+
+a:link {
+	color: #838676;
+}
+
+a:visited {
+	color: #686363;
 }
 
 img {
@@ -28,6 +39,6 @@ img {
 	height: 20%;
 }
 
-h2 {
-    line-height: 1.2;
+h1, h2 {
+	line-height: 1.2;
 }
