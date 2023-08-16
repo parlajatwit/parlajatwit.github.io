@@ -3,10 +3,10 @@ jeff
 2023-02-23
 frontpage.html
 nolink
-programmer, artist, game developer, not a writer
-college junior looking for work, please [contact me](#contact) if you have any opportunities
+programmer, artist, game developer, not a writer  
+college junior looking for work, please [contact me](#contact) if you have any opportunities  
 
-you can find my [projects](#projects) and [art](#art) below
+you can find my [projects](#projects) and [art](#art) below  
 
 # Projects
 <div id="projects"></div>
