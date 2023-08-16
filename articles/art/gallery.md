@@ -1,16 +1,9 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-	<title>Art Gallery</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1"/>
-	<link rel="stylesheet" href="../../style.css">
-</head>
-<body>
-<main>
-	<div class="content">
-	<h1>art</h1>
-	<a href="../pages/index.html">back</a>
-	<p>i make art in blender when i am exceptionally bored
+Art Gallery
+jeff
+2023-02-27
+category.html
+nolink
+i make art in blender when i am exceptionally bored
 here are some cherry picked examples
 <div class="flex-container">
 	<img src="../../img/art/6eye.gif">
@@ -25,13 +18,4 @@ here are some cherry picked examples
 	<img src="../../img/art/dogma.png">
 	<img src="../../img/art/quote.gif">
 	<img src="../../img/art/vom.gif">
-</div></p>
-	</div>
-</main>
-<footer>
-	<div class="content">
-	
-	</div>
-</footer>
-</body>
-</html>
+</div>
