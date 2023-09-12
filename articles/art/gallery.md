@@ -3,8 +3,8 @@ jeff
 2023-02-27
 category.html
 nolink
-i make art in blender when i am exceptionally bored
-here are some cherry picked examples
+
+Here's some of my art. Feel free to reach out if you'd like any of the blend files to study.   
 <div class="flex-container">
 	<img src="../../img/art/6eye.gif">
 	<img src="../../img/art/raincoat_demon.gif">
