@@ -5,9 +5,9 @@ frontpage.html
 nolink
 
 Hey, I'm Jeff!  
-I'm a junior studying computer science in Boston. I love working with Python, C, Bash, web technologies, and various game engines. I also enjoy managing Linux systems and writing scripts to automate anything I can.   
+I'm a senior studying computer science at a university in Boston, MA. I love working with Python, C, Bash, web technologies, and various game engines. I also enjoy managing Linux systems and writing scripts to automate anything I can.   
 Besides computer science, you can find me making 3D art in Blender. I've been doing so for around 3 years now, and I feel it's good to have an art background to supplement programming.   
-I'm searching for an internship this Spring, so feel free to reach out if anything here interests you. I'm a quick learner and want to dive deep into new technologies and systems!  
+Feel free to reach out if anything here interests you. I'm currently employed, but open to any offers that come my way. I'm a quick learner and want to dive deep into new technologies and systems!  
 
 You can find my [projects](../projects/index.html) and [art](../art/gallery.html) below  
 
